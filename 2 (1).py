@@ -1,6 +1,6 @@
 print("HELLO I WILL INTRODUCE MYSELF")
-print("Name: Harshit Pareek")
+print("Name: Aditya kishor")
 print("Age: 20")
 print("Job: Software Developer")
 print("Address: Uttarakhand")
-print("DOB: 20/12/2005")
+print("DOB: 0812/2005")
